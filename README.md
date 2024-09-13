@@ -48,6 +48,11 @@
 
 ※Pythonのバージョンは **3系** を利用します。
 
+macOS で conda 環境を構築して notebook を実行する場合は、次の手順で環境を構築してください。
+```bash
+conda env create -f requirements-macos.yaml
+conda activate dls5
+```
 
 ## 実行方法
 
